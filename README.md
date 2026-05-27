@@ -115,7 +115,7 @@ The spreadsheet is expected to contain at minimum the following columns:
 
 ---
 
-## Running the Pipeline
+# Running the Pipeline
 
 bash
 # Run all steps in sequence (first execution)
