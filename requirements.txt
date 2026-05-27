@@ -1,0 +1,21 @@
+# Data manipulation
+pandas
+openpyxl
+
+# Computational
+numpy
+
+# Visualization
+matplotlib
+
+# Stats
+scipy
+
+# Deep Learning (PyTorch)
+# If you have GPU NVIDIA, install the version wiht CUDA : https://pytorch.org/get-started/locally/
+# For CPU, this command works:
+torch
+
+# Model (HuggingFace)
+transformers
+datasets
